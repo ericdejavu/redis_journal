@@ -1,0 +1,1 @@
+rmdir main.o rax.o main.exe
